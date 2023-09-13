@@ -1,5 +1,14 @@
-Hi There 
+About Me:
+- :telescope: I’m working as a Machine Learning Engineer and contributing to Artificial Intelligence.
 
+- :seedling: Exploring Artificial Intelligence.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Abhimanyu9539/Abhimanyu9539)
+
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -11,3 +20,11 @@ Hi There
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu9539
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Abhimanyu9539&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu9539)](https://github.com/anuraghazra/github-readme-stats)
