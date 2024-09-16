@@ -3,7 +3,8 @@
 - :telescope: I’m working as a Machine Learning Engineer and contributing to Artificial Intelligence.
 - :seedling: Exploring Artificial Intelligence.
 - :zap: In my free time, I like to dabble in newest LLMs and their use cases in my day to day life.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Abhimanyu9539/Abhimanyu9539)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhimanyu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Abhimanyu9539/)
+
 
 # :hammer_and_wrench: Languages and Tools
 
