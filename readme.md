@@ -1,6 +1,7 @@
 # About Me
+👋 Hi, I’m Abhimanyu, a dedicated Machine Learning Engineer specializing in the design and implementation of AI-driven solutions. My work spans diverse areas including deep learning, large language models (LLMs), and natural language processing (NLP). I’m experienced with frameworks like TensorFlow and PyTorch, and I apply these tools to practical tasks, from vision based projects to language model fine-tuning.
 
-- :telescope: I’m working as a Machine Learning Engineer and contributing to Artificial Intelligence.
+I’m always exploring innovative applications of LLMs to solve real-world problems. Let’s collaborate on transformative AI projects!
 - :seedling: Exploring Artificial Intelligence.
 - :zap: In my free time, I like to dabble in newest LLMs and their use cases in my day to day life.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhimanyu-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Abhimanyu9539)
